@@ -1,0 +1,20 @@
+*****************************
+Ticket_ID:9106
+Name_of_the_passenger:Eshwar
+Age:22
+Phone_number:9087654321
+Seat_number:2
+Bus_ID:35
+*****************************
+*****************************
+Ticket_ID:9308
+Name_of_the_passenger:Revanth
+Age:33
+Phone_number:8098765432
+Seat_number:4
+Bus_ID:35
+*****************************
+*****************************
+Ticket_ID:9373
+		->RECORD_DELETED
+*****************

@@ -1,0 +1,20 @@
+*****************************
+Ticket_ID:6359
+Name_of_the_passenger:rrr
+Age:rrr
+Phone_number:rrr
+Seat_number:3
+Bus_ID:29
+*****************************
+*****************************
+Ticket_ID:6434
+Name_of_the_passenger:ttt
+Age:ttt
+Phone_number:ttt
+Seat_number:7
+Bus_ID:29
+*****************************
+*****************************
+Ticket_ID:6473
+		->RECORD_DELETED
+************
